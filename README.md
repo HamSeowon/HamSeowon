@@ -12,5 +12,5 @@
 <!-- - [Project Name](link) — one-line description -->
 
 📫 Let's Connect
-<p align="left"> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="Selene's GitHub Stats" /> </p
+<p align="left"> <a href="mailto:hamseowon040227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/seowon-ham-b51387398/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Seowon(Selene) Ham&show_icons=true&theme=default" alt="Selene's GitHub Stats" /> </p
