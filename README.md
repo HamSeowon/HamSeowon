@@ -1,5 +1,5 @@
 ## Hellloooo 👋
-<h1 align="center">Hi there, I'm Selene 👋</h1> <p align="center"> Honors Specialization in Data Science @ Western University (UWO) 🎓 </p>
+<h1 align="center">Hi there, I'm Selene </h1> <p align="center"> Honors Specialization in Data Science @ Western University (UWO) 🎓 </p>
 
 Here are some ideas to get you started:
 
