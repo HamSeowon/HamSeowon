@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**HamSeowon/HamSeowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hellloooo 👋
+<h1 align="center">Hi there, I'm Selene 👋</h1> <p align="center"> Honors Specialization in Data Science @ Western University (UWO) 🎓 </p>
 
 Here are some ideas to get you started:
 
