@@ -1,5 +1,5 @@
 ## Hellloooo 👋
-<h1 align="center">Hi there, I'm Selene </h1> <p align="center"> Honors Specialization in Data Science @ Western University (UWO) 🎓 </p>
+<p align="center"> Hi there! I'm Selene, and I'm pursuing Honors Specialization in Data Science @ Western University (UWO) 🎓 </p>
 
 🚧 Currently Working On
  — stay tuned! More coming soon 🔨
